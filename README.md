@@ -1,2 +1,2 @@
-# logo
-Logo of Sahya Digital Conservation Foundation
+# media
+Media Repository related to Sahya Digital Conservation Foundation
